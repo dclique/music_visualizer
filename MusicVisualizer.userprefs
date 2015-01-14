@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SpawnCubes.cs">
+    <Files>
+      <File FileName="..\Unity\CWU1\Assets\Shoot.cs" Line="1" Column="1" />
+      <File FileName="Assets\Visualizer.cs" Line="14" Column="3" />
+      <File FileName="Assets\SpawnCubes.cs" Line="44" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
