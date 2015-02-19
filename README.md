@@ -1,2 +1,2 @@
 # music_visualizer
-very simple graphic music vizualizer made in unity
+Very simple graphic music visualizer made in Unity
